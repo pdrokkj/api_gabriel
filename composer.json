@@ -1,0 +1,16 @@
+{
+    "name": "pedro.santos12/api-geometry",
+    "autoload": {
+        "psr-4": {
+            "PedroSantos12\\ApiGeometry\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "N"
+        }
+    ],
+    "require": {
+        "slim/psr7": "^1.7"
+    }
+}
